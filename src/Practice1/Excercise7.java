@@ -1,4 +1,4 @@
-package Practice1;
+package practice1;
 
 /*
 Realizar Excercise6 con for().

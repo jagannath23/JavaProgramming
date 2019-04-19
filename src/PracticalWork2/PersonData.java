@@ -1,4 +1,4 @@
-package PracticalWork2;
+package practicalwork2;
 
 import java.util.HashMap;
 import java.util.Map;

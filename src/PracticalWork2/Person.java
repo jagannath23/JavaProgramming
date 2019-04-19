@@ -1,4 +1,4 @@
-package PracticalWork2;
+package practicalwork2;
 
 public class Person {
     int DU;

@@ -1,4 +1,4 @@
-package PracticalWork2;
+package practicalwork2;
 
 public class Student extends Person {
     String career;
