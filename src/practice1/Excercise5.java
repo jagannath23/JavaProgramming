@@ -3,7 +3,7 @@ package practice1;
 import java.util.Random;
 
 /*
-A Excercise 4 añadirle si la variable está entre 11 y 20, o entre 21 y 30.
+A Exercise 4 añadirle si la variable está entre 11 y 20, o entre 21 y 30.
  */
 public class Excercise5 {
     public static void main(String[] args) {

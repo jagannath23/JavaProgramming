@@ -1,7 +1,7 @@
 package practice1;
 
 /*
-Realizar FibonacciArray con for().
+Realizar Exercise 6 con for().
  */
 public class Excercise7 {
     public static void main(String[] args) {
