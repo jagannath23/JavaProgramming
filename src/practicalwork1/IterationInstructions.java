@@ -1,8 +1,6 @@
-package PracticalWork1;
+package practicalwork1;
 
-import java.util.Random;
-
-/*
+/* Exercise 4
 Write a program that implements the same link with For and with While.
 Pseudocode FOR (nested):
     Declare var1 = 0 and var2 = 0 as integers (or another type) ..
@@ -14,7 +12,7 @@ Pseudocode WHILE
     While var1 is different to var2, Go decreasing var1 and increasing var2 in each cycle. When they are the same,
     print on the screen "THEY WERE EQUALIZED IN THE CYCLE:" + cycle.
 */
-public class Excercise4 {
+public class IterationInstructions {
     public static void main(String[] args) {
         int var1 = 0;
         int var2 = 0;

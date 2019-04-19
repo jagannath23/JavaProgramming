@@ -1,9 +1,9 @@
-package PracticalWork1;
+package practicalwork1;
 
 import java.util.Random;
 
-// Write a program that implements the Fibonacci series
-public class Excercise5 {
+// Exercise 5 Write a program that implements the Fibonacci series
+public class FibonacciSeries {
     public static void main(String[] args) {
         int iterations = new Random().nextInt(25);
         int fibo = 0;

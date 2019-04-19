@@ -1,10 +1,10 @@
-package PracticalWork1;
+package practicalwork1;
 
 import java.util.Arrays;
 import java.util.Random;
 
-// Write a program from Excercise5 that stores the results of the series in an array of numbers
-public class Excercise6 {
+// Exercise 6 Write a program from FibonacciSeries that stores the results of the series in an array of numbers
+public class FibonacciArray {
     public static void main(String[] args) {
         int iterations = new Random().nextInt(25);
         int fibo = 0;
