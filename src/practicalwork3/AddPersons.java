@@ -18,14 +18,11 @@ public class AddPersons {
         for (int i = 1; i <= number_of_persons; i++) {
             System.out.println("\nEnter first name, second name and DNI: ");
             Person person = new Person();
-            person.setFirstName(scanner.nextLine());
-            person.setSecondName(scanner.nextLine());
-            person.setDNI(scanner.nextInt());
-            scanner.nextLine();
+            person.enterPersonData(scanner);
             persons.add(person);
         }
 
-        System.out.println("\nPeople added: ");
+        System.out.println("\nPersons added: ");
         for (Person person : persons) {
             System.out.println("\nName: " + person.getFirstName()
                     + "\nSecond name: " + person.getSecondName()
