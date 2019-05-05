@@ -1,4 +1,4 @@
-package Practice1;
+package practice1;
 
 /*
 Mostrar los numeros pares entre 1 y 100

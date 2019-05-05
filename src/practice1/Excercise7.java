@@ -1,7 +1,7 @@
-package Practice1;
+package practice1;
 
 /*
-Realizar Excercise6 con for().
+Realizar Exercise 6 con for().
  */
 public class Excercise7 {
     public static void main(String[] args) {
