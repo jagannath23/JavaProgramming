@@ -1,4 +1,4 @@
-package Practice1;
+package practice1;
 
 /*
 Mostrar los números del 1 al 100 incluidos con while().
