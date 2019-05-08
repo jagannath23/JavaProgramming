@@ -1,6 +1,6 @@
-package examples.exceptions.services;
+package examples.users.services;
 
-import examples.exceptions.services.exceptions.InvalidUsernameException;
+import examples.users.services.exceptions.InvalidUsernameException;
 
 public class UserDataValidator {
     private static final String USERNAME_REGEX = "[a-zA-Z0-9._\\-]{3,}";

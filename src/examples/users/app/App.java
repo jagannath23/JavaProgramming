@@ -1,7 +1,7 @@
-package examples.exceptions.app;
+package examples.users.app;
 
-import examples.exceptions.controllers.UserController;
-import examples.exceptions.models.User;
+import examples.users.controllers.UserController;
+import examples.users.models.User;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -20,7 +20,7 @@ public class App {
     private static void showMenu() {
         System.out.println("\nWhat do you want to do?" +
                 "\n1. Add a user" +
-                "\n2. List users" +
+                "\n2. List examples.users" +
                 "\n3. Update a user" +
                 "\n4. Delete a user" +
                 "\n5. Exit");

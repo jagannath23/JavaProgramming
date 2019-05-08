@@ -1,6 +1,6 @@
-package examples.exceptions.controllers;
+package examples.users.controllers;
 
-import examples.exceptions.models.User;
+import examples.users.models.User;
 
 import java.util.ArrayList;
 import java.util.Scanner;
