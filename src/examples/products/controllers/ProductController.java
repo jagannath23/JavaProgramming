@@ -46,7 +46,7 @@ public class ProductController {
         Product product = Product.search(scanner, products);
         if (product != null) {
             products.remove(product);
-            System.out.println("User deleted");
+            System.out.println("Product deleted");
         }
     }
 }

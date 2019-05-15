@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class Product {
     private String title;
-    private Float price;
+    private Double price;
     private Integer stock;
 
     public String getTitle() {
@@ -20,19 +20,19 @@ public class Product {
         this.title = title;
     }
 
-    public Float getPrice() {
+    Double getPrice() {
         return price;
     }
 
-    public void setPrice(Float price) {
+    void setPrice(Double price) {
         this.price = price;
     }
 
-    public Integer getStock() {
+    Integer getStock() {
         return stock;
     }
 
-    public void setStock(Integer stock) {
+    void setStock(Integer stock) {
         this.stock = stock;
     }
 
