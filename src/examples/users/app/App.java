@@ -1,7 +1,7 @@
-package examples.exceptions.app;
+package examples.users.app;
 
-import examples.exceptions.controllers.UserController;
-import examples.exceptions.models.User;
+import examples.users.controllers.UserController;
+import examples.users.models.User;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -30,7 +30,6 @@ public class App {
     private static boolean handleUserActions(ArrayList<User> users) {
         int option;
         Scanner scanner = new Scanner(System.in);
-
 
         option = scanner.nextInt();
         switch (option) {

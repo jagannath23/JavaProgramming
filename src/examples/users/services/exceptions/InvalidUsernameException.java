@@ -1,4 +1,4 @@
-package examples.exceptions.services.exceptions;
+package examples.users.services.exceptions;
 
 public class InvalidUsernameException extends Exception {
     private String username;

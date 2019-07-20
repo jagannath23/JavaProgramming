@@ -1,7 +1,7 @@
-package examples.exceptions.models;
+package examples.users.models;
 
-import examples.exceptions.services.exceptions.InvalidUsernameException;
-import examples.exceptions.services.UserDataValidator;
+import examples.users.services.exceptions.InvalidUsernameException;
+import examples.users.services.UserDataValidator;
 
 import java.util.ArrayList;
 import java.util.Scanner;
